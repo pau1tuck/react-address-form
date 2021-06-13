@@ -23,6 +23,8 @@ const CountryDropdown = (): JSX.Element => {
         <option key={country.alpha2}>{country.name}</option>
     ));
 
+    const setLocale = () => {}; // 2DO
+
     return <select>{countries}</select>;
 };
 

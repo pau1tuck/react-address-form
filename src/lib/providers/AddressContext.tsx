@@ -1,5 +1,5 @@
 import React, { createContext } from "react";
 
-const AddressContext = createContext({});
+const AddressContext = createContext("default");
 
 export default AddressContext;
