@@ -12,6 +12,7 @@ import {
     Typography,
     Zoom,
 } from "@material-ui/core";
+import CountryDropdown from "./lib/components/CountryDropdown";
 
 function App(): JSX.Element {
     return (
@@ -24,6 +25,7 @@ function App(): JSX.Element {
                                 React Address Form
                             </Typography>
                             <hr />
+                            <CountryDropdown />
                         </Box>
                     </Box>
                 </Paper>

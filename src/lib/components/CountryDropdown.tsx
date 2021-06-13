@@ -1,18 +1,29 @@
 import React, { useContext } from "react";
 import AddressContext from "../providers/AddressContext";
+import { iso3166 } from "../../data/iso3166";
 
 interface SelectProps {
     autoFocus: boolean;
 }
 
-const CountryDropdown = ({ autoFocus }: SelectProps): JSX.Element => {
+const sortedCountries = iso3166.sort((x, y) => {
+    if (x.name > y.name) {
+        return 1;
+    }
+    if (y.name > x.name) {
+        return -1;
+    }
+    return 0;
+});
+
+const CountryDropdown = (): JSX.Element => {
     const locale = useContext(AddressContext);
-    return (
-        <select>
-            <option value="volvo">Volvo</option>
-            <option value="saab">Saab</option>
-        </select>
-    );
+
+    const countries = sortedCountries.map(country => (
+        <option key={country.alpha2}>{country.name}</option>
+    ));
+
+    return <select>{countries}</select>;
 };
 
 export default CountryDropdown;
