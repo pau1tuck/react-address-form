@@ -1,8 +1,18 @@
 import React, { useContext } from "react";
+import AddressContext from "../providers/AddressContext";
 
-const CountryDropdown = (): JSX.Element => {
+interface SelectProps {
+    autoFocus: boolean;
+}
+
+const CountryDropdown = ({ autoFocus }: SelectProps): JSX.Element => {
     const locale = useContext(AddressContext);
-    return <div>Dog</div>;
+    return (
+        <select>
+            <option value="volvo">Volvo</option>
+            <option value="saab">Saab</option>
+        </select>
+    );
 };
 
 export default CountryDropdown;

@@ -1,1544 +1,1544 @@
-{
-    "AD": {
+[
+    {
         "code": 20,
         "alpha-2": "AD",
         "name": "Andorra",
         "flag": "🇦🇩"
     },
-    "AE": {
+    {
         "code": 784,
         "alpha-2": "AE",
         "name": "United Arab Emirates",
         "flag": "🇦🇪"
     },
-    "AF": {
+    {
         "code": 4,
         "alpha-2": "AF",
         "name": "Afghanistan",
         "flag": "🇦🇫"
     },
-    "AG": {
+    {
         "code": 28,
         "alpha-2": "AG",
         "name": "Antigua & Barbuda",
         "flag": "🇦🇬"
     },
-    "AI": {
+    {
         "code": 660,
         "alpha-2": "AI",
         "name": "Anguilla",
         "flag": "🇦🇮"
     },
-    "AL": {
+    {
         "code": 8,
         "alpha-2": "AL",
         "name": "Albania",
         "flag": "🇦🇱"
     },
-    "AM": {
+    {
         "code": 51,
         "alpha-2": "AM",
         "name": "Armenia",
         "flag": "🇦🇲"
     },
-    "AO": {
+    {
         "code": 24,
         "alpha-2": "AO",
         "name": "Angola",
         "flag": "🇦🇴"
     },
-    "AQ": {
+    {
         "code": 10,
         "alpha-2": "AQ",
         "name": "Antarctica",
         "flag": "🇦🇶"
     },
-    "AR": {
+    {
         "alpha-2": "AR",
 
         "name": "Argentina",
         "flag": "🇦🇷"
     },
-    "AS": {
+    {
         "alpha-2": "AS",
 
         "name": "American Samoa",
         "flag": "🇦🇸"
     },
-    "AT": {
+    {
         "alpha-2": "AT",
 
         "name": "Austria",
         "flag": "🇦🇹"
     },
-    "AU": {
+    {
         "alpha-2": "AU",
 
         "name": "Australia",
         "flag": "🇦🇺"
     },
-    "AW": {
+    {
         "alpha-2": "AW",
 
         "name": "Aruba",
         "flag": "🇦🇼"
     },
-    "AX": {
+    {
         "alpha-2": "AX",
 
         "name": "Åland Islands",
         "flag": "🇦🇽"
     },
-    "AZ": {
+    {
         "alpha-2": "AZ",
 
         "name": "Azerbaijan",
         "flag": "🇦🇿"
     },
-    "BA": {
+    {
         "alpha-2": "BA",
 
         "name": "Bosnia & Herzegovina",
         "flag": "🇧🇦"
     },
-    "BB": {
+    {
         "alpha-2": "BB",
 
         "name": "Barbados",
         "flag": "🇧🇧"
     },
-    "BD": {
+    {
         "alpha-2": "BD",
 
         "name": "Bangladesh",
         "flag": "🇧🇩"
     },
-    "BE": {
+    {
         "alpha-2": "BE",
 
         "name": "Belgium",
         "flag": "🇧🇪"
     },
-    "BF": {
+    {
         "alpha-2": "BF",
 
         "name": "Burkina Faso",
         "flag": "🇧🇫"
     },
-    "BG": {
+    {
         "alpha-2": "BG",
 
         "name": "Bulgaria",
         "flag": "🇧🇬"
     },
-    "BH": {
+    {
         "alpha-2": "BH",
 
         "name": "Bahrain",
         "flag": "🇧🇭"
     },
-    "BI": {
+    {
         "alpha-2": "BI",
 
         "name": "Burundi",
         "flag": "🇧🇮"
     },
-    "BJ": {
+    {
         "alpha-2": "BJ",
 
         "name": "Benin",
         "flag": "🇧🇯"
     },
-    "BL": {
+    {
         "alpha-2": "BL",
 
         "name": "St. Barthélemy",
         "flag": "🇧🇱"
     },
-    "BM": {
+    {
         "alpha-2": "BM",
 
         "name": "Bermuda",
         "flag": "🇧🇲"
     },
-    "BN": {
+    {
         "alpha-2": "BN",
 
         "name": "Brunei",
         "flag": "🇧🇳"
     },
-    "BO": {
+    {
         "alpha-2": "BO",
 
         "name": "Bolivia",
         "flag": "🇧🇴"
     },
-    "BQ": {
+    {
         "alpha-2": "BQ",
 
         "name": "Caribbean Netherlands",
         "flag": "🇧🇶"
     },
-    "BR": {
+    {
         "alpha-2": "BR",
 
         "name": "Brazil",
         "flag": "🇧🇷"
     },
-    "BS": {
+    {
         "alpha-2": "BS",
 
         "name": "Bahamas",
         "flag": "🇧🇸"
     },
-    "BT": {
+    {
         "alpha-2": "BT",
 
         "name": "Bhutan",
         "flag": "🇧🇹"
     },
-    "BV": {
+    {
         "alpha-2": "BV",
 
         "name": "Bouvet Island",
         "flag": "🇧🇻"
     },
-    "BW": {
+    {
         "alpha-2": "BW",
 
         "name": "Botswana",
         "flag": "🇧🇼"
     },
-    "BY": {
+    {
         "alpha-2": "BY",
 
         "name": "Belarus",
         "flag": "🇧🇾"
     },
-    "BZ": {
+    {
         "alpha-2": "BZ",
 
         "name": "Belize",
         "flag": "🇧🇿"
     },
-    "CA": {
+    {
         "alpha-2": "CA",
 
         "name": "Canada",
         "flag": "🇨🇦"
     },
-    "CC": {
+    {
         "alpha-2": "CC",
 
         "name": "Cocos (Keeling) Islands",
         "flag": "🇨🇨"
     },
-    "CD": {
+    {
         "alpha-2": "CD",
 
         "name": "Congo - Kinshasa",
         "flag": "🇨🇩"
     },
-    "CF": {
+    {
         "alpha-2": "CF",
 
         "name": "Central African Republic",
         "flag": "🇨🇫"
     },
-    "CG": {
+    {
         "alpha-2": "CG",
 
         "name": "Congo - Brazzaville",
         "flag": "🇨🇬"
     },
-    "CH": {
+    {
         "alpha-2": "CH",
 
         "name": "Switzerland",
         "flag": "🇨🇭"
     },
-    "CI": {
+    {
         "alpha-2": "CI",
 
         "name": "Côte d’Ivoire",
         "flag": "🇨🇮"
     },
-    "CK": {
+    {
         "alpha-2": "CK",
 
         "name": "Cook Islands",
         "flag": "🇨🇰"
     },
-    "CL": {
+    {
         "alpha-2": "CL",
 
         "name": "Chile",
         "flag": "🇨🇱"
     },
-    "CM": {
+    {
         "alpha-2": "CM",
 
         "name": "Cameroon",
         "flag": "🇨🇲"
     },
-    "CN": {
+    {
         "alpha-2": "CN",
 
         "name": "China",
         "flag": "🇨🇳"
     },
-    "CO": {
+    {
         "alpha-2": "CO",
 
         "name": "Colombia",
         "flag": "🇨🇴"
     },
-    "CP": {
+    {
         "alpha-2": "CP",
 
         "name": "Clipperton Island",
         "flag": "🇨🇵"
     },
-    "CR": {
+    {
         "alpha-2": "CR",
 
         "name": "Costa Rica",
         "flag": "🇨🇷"
     },
-    "CU": {
+    {
         "alpha-2": "CU",
 
         "name": "Cuba",
         "flag": "🇨🇺"
     },
-    "CV": {
+    {
         "alpha-2": "CV",
 
         "name": "Cape Verde",
         "flag": "🇨🇻"
     },
-    "CW": {
+    {
         "alpha-2": "CW",
 
         "name": "Curaçao",
         "flag": "🇨🇼"
     },
-    "CX": {
+    {
         "alpha-2": "CX",
 
         "name": "Christmas Island",
         "flag": "🇨🇽"
     },
-    "CY": {
+    {
         "alpha-2": "CY",
 
         "name": "Cyprus",
         "flag": "🇨🇾"
     },
-    "CZ": {
+    {
         "alpha-2": "CZ",
 
         "name": "Czechia",
         "flag": "🇨🇿"
     },
-    "DE": {
+    {
         "alpha-2": "DE",
 
         "name": "Germany",
         "flag": "🇩🇪"
     },
-    "DG": {
+    {
         "alpha-2": "DG",
 
         "name": "Diego Garcia",
         "flag": "🇩🇬"
     },
-    "DJ": {
+    {
         "alpha-2": "DJ",
 
         "name": "Djibouti",
         "flag": "🇩🇯"
     },
-    "DK": {
+    {
         "alpha-2": "DK",
 
         "name": "Denmark",
         "flag": "🇩🇰"
     },
-    "DM": {
+    {
         "alpha-2": "DM",
 
         "name": "Dominica",
         "flag": "🇩🇲"
     },
-    "DO": {
+    {
         "alpha-2": "DO",
 
         "name": "Dominican Republic",
         "flag": "🇩🇴"
     },
-    "DZ": {
+    {
         "alpha-2": "DZ",
 
         "name": "Algeria",
         "flag": "🇩🇿"
     },
-    "EA": {
+    {
         "alpha-2": "EA",
 
         "name": "Ceuta & Melilla",
         "flag": "🇪🇦"
     },
-    "EC": {
+    {
         "alpha-2": "EC",
 
         "name": "Ecuador",
         "flag": "🇪🇨"
     },
-    "EE": {
+    {
         "alpha-2": "EE",
 
         "name": "Estonia",
         "flag": "🇪🇪"
     },
-    "EG": {
+    {
         "alpha-2": "EG",
 
         "name": "Egypt",
         "flag": "🇪🇬"
     },
-    "EH": {
+    {
         "alpha-2": "EH",
 
         "name": "Western Sahara",
         "flag": "🇪🇭"
     },
-    "ER": {
+    {
         "alpha-2": "ER",
 
         "name": "Eritrea",
         "flag": "🇪🇷"
     },
-    "ES": {
+    {
         "alpha-2": "ES",
 
         "name": "Spain",
         "flag": "🇪🇸"
     },
-    "ET": {
+    {
         "alpha-2": "ET",
 
         "name": "Ethiopia",
         "flag": "🇪🇹"
     },
-    "EU": {
+    {
         "alpha-2": "EU",
 
         "name": "European Union",
         "flag": "🇪🇺"
     },
-    "FI": {
+    {
         "alpha-2": "FI",
 
         "name": "Finland",
         "flag": "🇫🇮"
     },
-    "FJ": {
+    {
         "alpha-2": "FJ",
 
         "name": "Fiji",
         "flag": "🇫🇯"
     },
-    "FK": {
+    {
         "alpha-2": "FK",
 
         "name": "Falkland Islands",
         "flag": "🇫🇰"
     },
-    "FM": {
+    {
         "alpha-2": "FM",
 
         "name": "Micronesia",
         "flag": "🇫🇲"
     },
-    "FO": {
+    {
         "alpha-2": "FO",
 
         "name": "Faroe Islands",
         "flag": "🇫🇴"
     },
-    "FR": {
+    {
         "alpha-2": "FR",
 
         "name": "France",
         "flag": "🇫🇷"
     },
-    "GA": {
+    {
         "alpha-2": "GA",
 
         "name": "Gabon",
         "flag": "🇬🇦"
     },
-    "GB": {
+    {
         "alpha-2": "GB",
 
         "name": "United Kingdom",
         "flag": "🇬🇧"
     },
-    "GD": {
+    {
         "alpha-2": "GD",
 
         "name": "Grenada",
         "flag": "🇬🇩"
     },
-    "GE": {
+    {
         "alpha-2": "GE",
 
         "name": "Georgia",
         "flag": "🇬🇪"
     },
-    "GF": {
+    {
         "alpha-2": "GF",
 
         "name": "French Guiana",
         "flag": "🇬🇫"
     },
-    "GG": {
+    {
         "alpha-2": "GG",
 
         "name": "Guernsey",
         "flag": "🇬🇬"
     },
-    "GH": {
+    {
         "alpha-2": "GH",
 
         "name": "Ghana",
         "flag": "🇬🇭"
     },
-    "GI": {
+    {
         "alpha-2": "GI",
 
         "name": "Gibraltar",
         "flag": "🇬🇮"
     },
-    "GL": {
+    {
         "alpha-2": "GL",
 
         "name": "Greenland",
         "flag": "🇬🇱"
     },
-    "GM": {
+    {
         "alpha-2": "GM",
 
         "name": "Gambia",
         "flag": "🇬🇲"
     },
-    "GN": {
+    {
         "alpha-2": "GN",
 
         "name": "Guinea",
         "flag": "🇬🇳"
     },
-    "GP": {
+    {
         "alpha-2": "GP",
 
         "name": "Guadeloupe",
         "flag": "🇬🇵"
     },
-    "GQ": {
+    {
         "alpha-2": "GQ",
 
         "name": "Equatorial Guinea",
         "flag": "🇬🇶"
     },
-    "GR": {
+    {
         "alpha-2": "GR",
 
         "name": "Greece",
         "flag": "🇬🇷"
     },
-    "GS": {
+    {
         "alpha-2": "GS",
 
         "name": "South Georgia & South Sandwich Islands",
         "flag": "🇬🇸"
     },
-    "GT": {
+    {
         "alpha-2": "GT",
 
         "name": "Guatemala",
         "flag": "🇬🇹"
     },
-    "GU": {
+    {
         "alpha-2": "GU",
 
         "name": "Guam",
         "flag": "🇬🇺"
     },
-    "GW": {
+    {
         "alpha-2": "GW",
 
         "name": "Guinea-Bissau",
         "flag": "🇬🇼"
     },
-    "GY": {
+    {
         "alpha-2": "GY",
 
         "name": "Guyana",
         "flag": "🇬🇾"
     },
-    "HK": {
+    {
         "alpha-2": "HK",
 
         "name": "Hong Kong SAR China",
         "flag": "🇭🇰"
     },
-    "HM": {
+    {
         "alpha-2": "HM",
 
         "name": "Heard & McDonald Islands",
         "flag": "🇭🇲"
     },
-    "HN": {
+    {
         "alpha-2": "HN",
 
         "name": "Honduras",
         "flag": "🇭🇳"
     },
-    "HR": {
+    {
         "alpha-2": "HR",
 
         "name": "Croatia",
         "flag": "🇭🇷"
     },
-    "HT": {
+    {
         "alpha-2": "HT",
 
         "name": "Haiti",
         "flag": "🇭🇹"
     },
-    "HU": {
+    {
         "alpha-2": "HU",
 
         "name": "Hungary",
         "flag": "🇭🇺"
     },
-    "IC": {
+    {
         "alpha-2": "IC",
 
         "name": "Canary Islands",
         "flag": "🇮🇨"
     },
-    "ID": {
+    {
         "alpha-2": "ID",
 
         "name": "Indonesia",
         "flag": "🇮🇩"
     },
-    "IE": {
+    {
         "alpha-2": "IE",
 
         "name": "Ireland",
         "flag": "🇮🇪"
     },
-    "IL": {
+    {
         "alpha-2": "IL",
 
         "name": "Israel",
         "flag": "🇮🇱"
     },
-    "IM": {
+    {
         "alpha-2": "IM",
 
         "name": "Isle of Man",
         "flag": "🇮🇲"
     },
-    "IN": {
+    {
         "alpha-2": "IN",
 
         "name": "India",
         "flag": "🇮🇳"
     },
-    "IO": {
+    {
         "alpha-2": "IO",
 
         "name": "British Indian Ocean Territory",
         "flag": "🇮🇴"
     },
-    "IQ": {
+    {
         "alpha-2": "IQ",
 
         "name": "Iraq",
         "flag": "🇮🇶"
     },
-    "IR": {
+    {
         "alpha-2": "IR",
 
         "name": "Iran",
         "flag": "🇮🇷"
     },
-    "IS": {
+    {
         "alpha-2": "IS",
 
         "name": "Iceland",
         "flag": "🇮🇸"
     },
-    "IT": {
+    {
         "alpha-2": "IT",
 
         "name": "Italy",
         "flag": "🇮🇹"
     },
-    "JE": {
+    {
         "alpha-2": "JE",
 
         "name": "Jersey",
         "flag": "🇯🇪"
     },
-    "JM": {
+    {
         "alpha-2": "JM",
 
         "name": "Jamaica",
         "flag": "🇯🇲"
     },
-    "JO": {
+    {
         "alpha-2": "JO",
 
         "name": "Jordan",
         "flag": "🇯🇴"
     },
-    "JP": {
+    {
         "alpha-2": "JP",
 
         "name": "Japan",
         "flag": "🇯🇵"
     },
-    "KE": {
+    {
         "alpha-2": "KE",
 
         "name": "Kenya",
         "flag": "🇰🇪"
     },
-    "KG": {
+    {
         "alpha-2": "KG",
 
         "name": "Kyrgyzstan",
         "flag": "🇰🇬"
     },
-    "KH": {
+    {
         "alpha-2": "KH",
 
         "name": "Cambodia",
         "flag": "🇰🇭"
     },
-    "KI": {
+    {
         "alpha-2": "KI",
 
         "name": "Kiribati",
         "flag": "🇰🇮"
     },
-    "KM": {
+    {
         "alpha-2": "KM",
 
         "name": "Comoros",
         "flag": "🇰🇲"
     },
-    "KN": {
+    {
         "alpha-2": "KN",
 
         "name": "St. Kitts & Nevis",
         "flag": "🇰🇳"
     },
-    "KP": {
+    {
         "alpha-2": "KP",
 
         "name": "North Korea",
         "flag": "🇰🇵"
     },
-    "KR": {
+    {
         "alpha-2": "KR",
 
         "name": "South Korea",
         "flag": "🇰🇷"
     },
-    "KW": {
+    {
         "alpha-2": "KW",
 
         "name": "Kuwait",
         "flag": "🇰🇼"
     },
-    "KY": {
+    {
         "alpha-2": "KY",
 
         "name": "Cayman Islands",
         "flag": "🇰🇾"
     },
-    "KZ": {
+    {
         "alpha-2": "KZ",
 
         "name": "Kazakhstan",
         "flag": "🇰🇿"
     },
-    "LA": {
+    {
         "alpha-2": "LA",
 
         "name": "Laos",
         "flag": "🇱🇦"
     },
-    "LB": {
+    {
         "alpha-2": "LB",
 
         "name": "Lebanon",
         "flag": "🇱🇧"
     },
-    "LC": {
+    {
         "alpha-2": "LC",
 
         "name": "St. Lucia",
         "flag": "🇱🇨"
     },
-    "LI": {
+    {
         "alpha-2": "LI",
 
         "name": "Liechtenstein",
         "flag": "🇱🇮"
     },
-    "LK": {
+    {
         "alpha-2": "LK",
 
         "name": "Sri Lanka",
         "flag": "🇱🇰"
     },
-    "LR": {
+    {
         "alpha-2": "LR",
 
         "name": "Liberia",
         "flag": "🇱🇷"
     },
-    "LS": {
+    {
         "alpha-2": "LS",
 
         "name": "Lesotho",
         "flag": "🇱🇸"
     },
-    "LT": {
+    {
         "alpha-2": "LT",
 
         "name": "Lithuania",
         "flag": "🇱🇹"
     },
-    "LU": {
+    {
         "alpha-2": "LU",
 
         "name": "Luxembourg",
         "flag": "🇱🇺"
     },
-    "LV": {
+    {
         "alpha-2": "LV",
 
         "name": "Latvia",
         "flag": "🇱🇻"
     },
-    "LY": {
+    {
         "alpha-2": "LY",
 
         "name": "Libya",
         "flag": "🇱🇾"
     },
-    "MA": {
+    {
         "alpha-2": "MA",
 
         "name": "Morocco",
         "flag": "🇲🇦"
     },
-    "MC": {
+    {
         "alpha-2": "MC",
 
         "name": "Monaco",
         "flag": "🇲🇨"
     },
-    "MD": {
+    {
         "alpha-2": "MD",
 
         "name": "Moldova",
         "flag": "🇲🇩"
     },
-    "ME": {
+    {
         "alpha-2": "ME",
 
         "name": "Montenegro",
         "flag": "🇲🇪"
     },
-    "MF": {
+    {
         "alpha-2": "MF",
 
         "name": "St. Martin",
         "flag": "🇲🇫"
     },
-    "MG": {
+    {
         "alpha-2": "MG",
 
         "name": "Madagascar",
         "flag": "🇲🇬"
     },
-    "MH": {
+    {
         "alpha-2": "MH",
 
         "name": "Marshall Islands",
         "flag": "🇲🇭"
     },
-    "MK": {
+    {
         "alpha-2": "MK",
 
         "name": "Macedonia",
         "flag": "🇲🇰"
     },
-    "ML": {
+    {
         "alpha-2": "ML",
 
         "name": "Mali",
         "flag": "🇲🇱"
     },
-    "MM": {
+    {
         "alpha-2": "MM",
 
         "name": "Myanmar (Burma)",
         "flag": "🇲🇲"
     },
-    "MN": {
+    {
         "alpha-2": "MN",
 
         "name": "Mongolia",
         "flag": "🇲🇳"
     },
-    "MO": {
+    {
         "alpha-2": "MO",
 
         "name": "Macau SAR China",
         "flag": "🇲🇴"
     },
-    "MP": {
+    {
         "alpha-2": "MP",
 
         "name": "Northern Mariana Islands",
         "flag": "🇲🇵"
     },
-    "MQ": {
+    {
         "alpha-2": "MQ",
 
         "name": "Martinique",
         "flag": "🇲🇶"
     },
-    "MR": {
+    {
         "alpha-2": "MR",
 
         "name": "Mauritania",
         "flag": "🇲🇷"
     },
-    "MS": {
+    {
         "alpha-2": "MS",
 
         "name": "Montserrat",
         "flag": "🇲🇸"
     },
-    "MT": {
+    {
         "alpha-2": "MT",
 
         "name": "Malta",
         "flag": "🇲🇹"
     },
-    "MU": {
+    {
         "alpha-2": "MU",
 
         "name": "Mauritius",
         "flag": "🇲🇺"
     },
-    "MV": {
+    {
         "alpha-2": "MV",
 
         "name": "Maldives",
         "flag": "🇲🇻"
     },
-    "MW": {
+    {
         "alpha-2": "MW",
 
         "name": "Malawi",
         "flag": "🇲🇼"
     },
-    "MX": {
+    {
         "alpha-2": "MX",
 
         "name": "Mexico",
         "flag": "🇲🇽"
     },
-    "MY": {
+    {
         "alpha-2": "MY",
 
         "name": "Malaysia",
         "flag": "🇲🇾"
     },
-    "MZ": {
+    {
         "alpha-2": "MZ",
 
         "name": "Mozambique",
         "flag": "🇲🇿"
     },
-    "NA": {
+    {
         "alpha-2": "NA",
 
         "name": "Namibia",
         "flag": "🇳🇦"
     },
-    "NC": {
+    {
         "alpha-2": "NC",
 
         "name": "New Caledonia",
         "flag": "🇳🇨"
     },
-    "NE": {
+    {
         "alpha-2": "NE",
 
         "name": "Niger",
         "flag": "🇳🇪"
     },
-    "NF": {
+    {
         "alpha-2": "NF",
 
         "name": "Norfolk Island",
         "flag": "🇳🇫"
     },
-    "NG": {
+    {
         "alpha-2": "NG",
 
         "name": "Nigeria",
         "flag": "🇳🇬"
     },
-    "NI": {
+    {
         "alpha-2": "NI",
 
         "name": "Nicaragua",
         "flag": "🇳🇮"
     },
-    "NL": {
+    {
         "alpha-2": "NL",
 
         "name": "Netherlands",
         "flag": "🇳🇱"
     },
-    "NO": {
+    {
         "alpha-2": "NO",
 
         "name": "Norway",
         "flag": "🇳🇴"
     },
-    "NP": {
+    {
         "alpha-2": "NP",
 
         "name": "Nepal",
         "flag": "🇳🇵"
     },
-    "NR": {
+    {
         "alpha-2": "NR",
 
         "name": "Nauru",
         "flag": "🇳🇷"
     },
-    "NU": {
+    {
         "alpha-2": "NU",
 
         "name": "Niue",
         "flag": "🇳🇺"
     },
-    "NZ": {
+    {
         "alpha-2": "NZ",
 
         "name": "New Zealand",
         "flag": "🇳🇿"
     },
-    "OM": {
+    {
         "alpha-2": "OM",
 
         "name": "Oman",
         "flag": "🇴🇲"
     },
-    "PA": {
+    {
         "alpha-2": "PA",
 
         "name": "Panama",
         "flag": "🇵🇦"
     },
-    "PE": {
+    {
         "alpha-2": "PE",
 
         "name": "Peru",
         "flag": "🇵🇪"
     },
-    "PF": {
+    {
         "alpha-2": "PF",
 
         "name": "French Polynesia",
         "flag": "🇵🇫"
     },
-    "PG": {
+    {
         "alpha-2": "PG",
 
         "name": "Papua New Guinea",
         "flag": "🇵🇬"
     },
-    "PH": {
+    {
         "alpha-2": "PH",
 
         "name": "Philippines",
         "flag": "🇵🇭"
     },
-    "PK": {
+    {
         "alpha-2": "PK",
 
         "name": "Pakistan",
         "flag": "🇵🇰"
     },
-    "PL": {
+    {
         "alpha-2": "PL",
 
         "name": "Poland",
         "flag": "🇵🇱"
     },
-    "PM": {
+    {
         "alpha-2": "PM",
 
         "name": "St. Pierre & Miquelon",
         "flag": "🇵🇲"
     },
-    "PN": {
+    {
         "alpha-2": "PN",
 
         "name": "Pitcairn Islands",
         "flag": "🇵🇳"
     },
-    "PR": {
+    {
         "alpha-2": "PR",
 
         "name": "Puerto Rico",
         "flag": "🇵🇷"
     },
-    "PS": {
+    {
         "alpha-2": "PS",
 
         "name": "Palestinian Territories",
         "flag": "🇵🇸"
     },
-    "PT": {
+    {
         "alpha-2": "PT",
 
         "name": "Portugal",
         "flag": "🇵🇹"
     },
-    "PW": {
+    {
         "alpha-2": "PW",
 
         "name": "Palau",
         "flag": "🇵🇼"
     },
-    "PY": {
+    {
         "alpha-2": "PY",
 
         "name": "Paraguay",
         "flag": "🇵🇾"
     },
-    "QA": {
+    {
         "alpha-2": "QA",
 
         "name": "Qatar",
         "flag": "🇶🇦"
     },
-    "RE": {
+    {
         "alpha-2": "RE",
 
         "name": "Réunion",
         "flag": "🇷🇪"
     },
-    "RO": {
+    {
         "alpha-2": "RO",
 
         "name": "Romania",
         "flag": "🇷🇴"
     },
-    "RS": {
+    {
         "alpha-2": "RS",
 
         "name": "Serbia",
         "flag": "🇷🇸"
     },
-    "RU": {
+    {
         "alpha-2": "RU",
 
         "name": "Russia",
         "flag": "🇷🇺"
     },
-    "RW": {
+    {
         "alpha-2": "RW",
 
         "name": "Rwanda",
         "flag": "🇷🇼"
     },
-    "SA": {
+    {
         "alpha-2": "SA",
 
         "name": "Saudi Arabia",
         "flag": "🇸🇦"
     },
-    "SB": {
+    {
         "alpha-2": "SB",
 
         "name": "Solomon Islands",
         "flag": "🇸🇧"
     },
-    "SC": {
+    {
         "alpha-2": "SC",
 
         "name": "Seychelles",
         "flag": "🇸🇨"
     },
-    "SD": {
+    {
         "alpha-2": "SD",
 
         "name": "Sudan",
         "flag": "🇸🇩"
     },
-    "SE": {
+    {
         "alpha-2": "SE",
 
         "name": "Sweden",
         "flag": "🇸🇪"
     },
-    "SG": {
+    {
         "alpha-2": "SG",
 
         "name": "Singapore",
         "flag": "🇸🇬"
     },
-    "SH": {
+    {
         "alpha-2": "SH",
 
         "name": "St. Helena",
         "flag": "🇸🇭"
     },
-    "SI": {
+    {
         "alpha-2": "SI",
 
         "name": "Slovenia",
         "flag": "🇸🇮"
     },
-    "SJ": {
+    {
         "alpha-2": "SJ",
 
         "name": "Svalbard & Jan Mayen",
         "flag": "🇸🇯"
     },
-    "SK": {
+    {
         "alpha-2": "SK",
 
         "name": "Slovakia",
         "flag": "🇸🇰"
     },
-    "SL": {
+    {
         "alpha-2": "SL",
 
         "name": "Sierra Leone",
         "flag": "🇸🇱"
     },
-    "SM": {
+    {
         "alpha-2": "SM",
 
         "name": "San Marino",
         "flag": "🇸🇲"
     },
-    "SN": {
+    {
         "alpha-2": "SN",
 
         "name": "Senegal",
         "flag": "🇸🇳"
     },
-    "SO": {
+    {
         "alpha-2": "SO",
 
         "name": "Somalia",
         "flag": "🇸🇴"
     },
-    "SR": {
+    {
         "alpha-2": "SR",
 
         "name": "Suriname",
         "flag": "🇸🇷"
     },
-    "SS": {
+    {
         "alpha-2": "SS",
 
         "name": "South Sudan",
         "flag": "🇸🇸"
     },
-    "ST": {
+    {
         "alpha-2": "ST",
 
         "name": "São Tomé & Príncipe",
         "flag": "🇸🇹"
     },
-    "SV": {
+    {
         "alpha-2": "SV",
 
         "name": "El Salvador",
         "flag": "🇸🇻"
     },
-    "SX": {
+    {
         "alpha-2": "SX",
 
         "name": "Sint Maarten",
         "flag": "🇸🇽"
     },
-    "SY": {
+    {
         "alpha-2": "SY",
 
         "name": "Syria",
         "flag": "🇸🇾"
     },
-    "SZ": {
+    {
         "alpha-2": "SZ",
 
         "name": "Swaziland",
         "flag": "🇸🇿"
     },
-    "TA": {
+    {
         "alpha-2": "TA",
 
         "name": "Tristan da Cunha",
         "flag": "🇹🇦"
     },
-    "TC": {
+    {
         "alpha-2": "TC",
 
         "name": "Turks & Caicos Islands",
         "flag": "🇹🇨"
     },
-    "TD": {
+    {
         "alpha-2": "TD",
 
         "name": "Chad",
         "flag": "🇹🇩"
     },
-    "TF": {
+    {
         "alpha-2": "TF",
 
         "name": "French Southern Territories",
         "flag": "🇹🇫"
     },
-    "TG": {
+    {
         "alpha-2": "TG",
 
         "name": "Togo",
         "flag": "🇹🇬"
     },
-    "TH": {
+    {
         "alpha-2": "TH",
 
         "name": "Thailand",
         "flag": "🇹🇭"
     },
-    "TJ": {
+    {
         "alpha-2": "TJ",
 
         "name": "Tajikistan",
         "flag": "🇹🇯"
     },
-    "TK": {
+    {
         "alpha-2": "TK",
 
         "name": "Tokelau",
         "flag": "🇹🇰"
     },
-    "TL": {
+    {
         "alpha-2": "TL",
 
         "name": "Timor-Leste",
         "flag": "🇹🇱"
     },
-    "TM": {
+    {
         "alpha-2": "TM",
 
         "name": "Turkmenistan",
         "flag": "🇹🇲"
     },
-    "TN": {
+    {
         "alpha-2": "TN",
 
         "name": "Tunisia",
         "flag": "🇹🇳"
     },
-    "TO": {
+    {
         "alpha-2": "TO",
 
         "name": "Tonga",
         "flag": "🇹🇴"
     },
-    "TR": {
+    {
         "alpha-2": "TR",
 
         "name": "Turkey",
         "flag": "🇹🇷"
     },
-    "TT": {
+    {
         "alpha-2": "TT",
 
         "name": "Trinidad & Tobago",
         "flag": "🇹🇹"
     },
-    "TV": {
+    {
         "alpha-2": "TV",
 
         "name": "Tuvalu",
         "flag": "🇹🇻"
     },
-    "TW": {
+    {
         "alpha-2": "TW",
 
         "name": "Taiwan",
         "flag": "🇹🇼"
     },
-    "TZ": {
+    {
         "alpha-2": "TZ",
 
         "name": "Tanzania",
         "flag": "🇹🇿"
     },
-    "UA": {
+    {
         "alpha-2": "UA",
 
         "name": "Ukraine",
         "flag": "🇺🇦"
     },
-    "UG": {
+    {
         "alpha-2": "UG",
 
         "name": "Uganda",
         "flag": "🇺🇬"
     },
-    "UM": {
+    {
         "alpha-2": "UM",
 
         "name": "U.S. Outlying Islands",
         "flag": "🇺🇲"
     },
-    "UN": {
+    {
         "alpha-2": "UN",
 
         "name": "United Nations",
         "flag": "🇺🇳"
     },
-    "US": {
+    {
         "alpha-2": "US",
 
         "name": "United States",
         "flag": "🇺🇸"
     },
-    "UY": {
+    {
         "alpha-2": "UY",
 
         "name": "Uruguay",
         "flag": "🇺🇾"
     },
-    "UZ": {
+    {
         "alpha-2": "UZ",
 
         "name": "Uzbekistan",
         "flag": "🇺🇿"
     },
-    "VA": {
+    {
         "alpha-2": "VA",
 
         "name": "Vatican City",
         "flag": "🇻🇦"
     },
-    "VC": {
+    {
         "alpha-2": "VC",
 
         "name": "St. Vincent & Grenadines",
         "flag": "🇻🇨"
     },
-    "VE": {
+    {
         "alpha-2": "VE",
 
         "name": "Venezuela",
         "flag": "🇻🇪"
     },
-    "VG": {
+    {
         "alpha-2": "VG",
 
         "name": "British Virgin Islands",
         "flag": "🇻🇬"
     },
-    "VI": {
+    {
         "alpha-2": "VI",
 
         "name": "U.S. Virgin Islands",
         "flag": "🇻🇮"
     },
-    "VN": {
+    {
         "alpha-2": "VN",
 
         "name": "Vietnam",
         "flag": "🇻🇳"
     },
-    "VU": {
+    {
         "alpha-2": "VU",
 
         "name": "Vanuatu",
         "flag": "🇻🇺"
     },
-    "WF": {
+    {
         "alpha-2": "WF",
 
         "name": "Wallis & Futuna",
         "flag": "🇼🇫"
     },
-    "WS": {
+    {
         "alpha-2": "WS",
 
         "name": "Samoa",
         "flag": "🇼🇸"
     },
-    "XK": {
+    {
         "alpha-2": "XK",
 
         "name": "Kosovo",
         "flag": "🇽🇰"
     },
-    "YE": {
+    {
         "alpha-2": "YE",
 
         "name": "Yemen",
         "flag": "🇾🇪"
     },
-    "YT": {
+    {
         "alpha-2": "YT",
 
         "name": "Mayotte",
         "flag": "🇾🇹"
     },
-    "ZA": {
+    {
         "alpha-2": "ZA",
 
         "name": "South Africa",
         "flag": "🇿🇦"
     },
-    "ZM": {
+    {
         "alpha-2": "ZM",
 
         "name": "Zambia",
         "flag": "🇿🇲"
     },
-    "ZW": {
+    {
         "alpha-2": "ZW",
 
         "name": "Zimbabwe",
         "flag": "🇿🇼"
     }
-}
+]
