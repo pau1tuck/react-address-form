@@ -15,19 +15,20 @@ import {
 
 function App(): JSX.Element {
     return (
-        <div>
-            <Container component="main" maxWidth="xs">
+        <Box marginTop={2}>
+            <Container maxWidth="xs">
                 <Paper elevation={3}>
                     <Box height="100%" padding={2}>
                         <Box textAlign="center">
                             <Typography component="h1" variant="h5">
                                 React Address Form
                             </Typography>
+                            <hr />
                         </Box>
                     </Box>
                 </Paper>
             </Container>
-        </div>
+        </Box>
     );
 }
 
